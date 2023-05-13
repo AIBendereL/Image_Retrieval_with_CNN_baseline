@@ -6,7 +6,7 @@ Due to the fact that, the system's performance is only at the baseline level.
 
 ## Blog  
 
-Here is my blog about How Image Retrieval with CNN looks like.  
+Here is my blog about What Image Retrieval with CNN looks like, in general.  
 
 [*Image Retrieval with CNN - Baseline link (Github.io)*](https://aibenderel.github.io/2023/05/04/image_retrieval_cnn.html#thoughts-after-i-recovered-from-headache)
 
