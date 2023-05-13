@@ -21,6 +21,8 @@ The dataset has:
 - 1000 folders (1000 categories)  
 - each folder has 10 images  
 
+*(Directory is not included in this repository)*
+
 2. I then take a small portion to make a smaller dataset for experimenting.  
 From the original dataset, start from the top, I picked the first 100 folders.  
 **Directory: Data**   
@@ -48,7 +50,7 @@ The experiment dataset has:
 - Will get ***the last image*** in **directory: Input** as the target image.  
 - Will show the result.  
 
-**Result format**: Top 10 images from the dataset that are the most similar to the target image.  
+**Result format**: Top 10 images from the dataset that are the most similar to the target image, according to the system.  
 The order is as follow:  
 ```
 1  2  3  4
