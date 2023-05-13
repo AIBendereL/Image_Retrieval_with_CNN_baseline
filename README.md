@@ -8,7 +8,7 @@ Due to the fact that, the system's performance is only at the baseline level.
 
 Here is my blog about How Image Retrieval with CNN looks like.  
 
-[*Image Retrieval with CNN - Baseline link*](https://aibenderel.github.io/2023/05/04/image_retrieval_cnn.html#thoughts-after-i-recovered-from-headache)
+[*Image Retrieval with CNN - Baseline link (Github.io)*](https://aibenderel.github.io/2023/05/04/image_retrieval_cnn.html#thoughts-after-i-recovered-from-headache)
 
 ## Main Components  
 
@@ -34,7 +34,7 @@ The experiment dataset has:
 
 <br/>
 
-[*ImageNet-1k-medium-test (10k) link*](https://www.kaggle.com/datasets/kerrit/imagenet1kmediumtest-10k)
+[*ImageNet-1k-medium-test (10k) link (Kaggle)*](https://www.kaggle.com/datasets/kerrit/imagenet1kmediumtest-10k)
 
 ### Dataset Feature extraction  
 
